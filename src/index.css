@@ -1,0 +1,18 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+/* header color 
+hexcode : #2d4250;
+rgba rgba(45,66,80,255)
+
+grid color :
+hex code #283d4a
+rgba rgba(40,61,74,255);
+
+button color 
+hex code #14aff1
+rgba rgba(20,175,241,255)'
+' */
